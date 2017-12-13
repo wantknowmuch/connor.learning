@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+<!--
+   <extension
+         point="org.eclipse.ui.commands">
+      <category
+            name="Sample Category"
+            id="com.connor.soa.learning.commands.category">
+      </category>
+      <command
+            name="新建文件夹"
+            categoryId="com.connor.soa.learning.commands.createFolderCommand"
+            id="com.connor.soa.learning.commands.createFolderCommand">
+      </command>
+   </extension>
+   <extension
+         point="org.eclipse.ui.handlers">
+      <handler
+            commandId="com.connor.soa.learning.commands.createFolderCommand"
+            class="com.connor.soa.learning.folder.CreateFolderHandler">
+      </handler>
+   </extension>
+   <extension
+         point="org.eclipse.ui.bindings">
+      <key
+            commandId="com.connor.soa.learning.commands.sampleCommand"
+            contextId="org.eclipse.ui.contexts.window"
+            sequence="M1+6"
+            schemeId="org.eclipse.ui.defaultAcceleratorConfiguration">
+      </key>
+   </extension>
+   <extension
+         point="org.eclipse.ui.menus">
+      <menuContribution
+            locationURI="menu:org.eclipse.ui.main.menu?after=additions">
+         <menu
+               label="soa新建"
+               mnemonic="M"
+               id="com.connor.soa.learning.menus.createMenu">
+            <command
+                  commandId="com.connor.soa.learning.commands.createFolderCommand"
+                  mnemonic="S"
+                  id="com.connor.soa.learning.menus.createFolderCommand">
+            </command>
+         </menu>
+      </menuContribution>
+      <menuContribution
+            locationURI="toolbar:org.eclipse.ui.main.toolbar?after=additions">
+         <toolbar
+               id="com.connor.soa.learning.toolbars.sampleToolbar">
+            <command
+                  commandId="com.connor.soa.learning.commands.sampleCommand"
+                  icon="icons/sample.gif"
+                  tooltip="Say hello world"
+                  id="com.connor.soa.learning.toolbars.sampleCommand">
+            </command>
+         </toolbar>
+      </menuContribution>
+   </extension>
+-->
+</plugin>
