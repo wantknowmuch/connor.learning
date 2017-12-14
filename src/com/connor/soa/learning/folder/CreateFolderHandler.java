@@ -1,4 +1,4 @@
-package com.connor.soa.learning.soa.folder;
+package com.connor.soa.learning.folder;
 
 import org.eclipse.core.commands.AbstractHandler;
 import org.eclipse.core.commands.ExecutionEvent;

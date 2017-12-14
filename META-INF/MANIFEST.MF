@@ -22,5 +22,5 @@ Import-Package: com.teamcenter.rac.aif,
  com.teamcenter.rac.kernel,
  com.teamcenter.rac.util
 Export-Package: com.connor.soa.learning,
- com.connor.soa.learning.handlers,
- com.connor.soa.learning.soa.folder
+ com.connor.soa.learning.folder,
+ com.connor.soa.learning.handlers
